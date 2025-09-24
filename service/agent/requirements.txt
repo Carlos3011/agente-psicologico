@@ -1,0 +1,10 @@
+google-cloud-aiplatform[adk,agent_engines]
+cloudpickle==3.0
+pydantic
+pytest-asyncio
+python-dotenv
+google-cloud-logging
+dateparser
+google-auth
+gunicorn==23.0.0
+fastapi
