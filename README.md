@@ -2027,8 +2027,8 @@ if __name__ == "__main__":
 #### Canales de Ayuda
 
 1. **Documentación Oficial**
-   - [Google Cloud ADK Documentation](https://cloud.google.com/agent-development-kit/docs)
-   - [Vertex AI Troubleshooting](https://cloud.google.com/vertex-ai/docs/troubleshooting)
+   - [Google Cloud ADK Documentation](https://google.github.io/adk-docs/)
+   - [Vertex AI Troubleshooting](https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/introduction-prompt-design?hl=es)
 
 2. **Comunidad y Foros**
    - [Stack Overflow - google-cloud-platform](https://stackoverflow.com/questions/tagged/google-cloud-platform)
@@ -2063,9 +2063,8 @@ if __name__ == "__main__":
 ## 📚 Recursos Adicionales
 
 ### Documentación Oficial
-- [Google Cloud ADK](https://cloud.google.com/agent-development-kit)
+- [Google Cloud ADK](https://google.github.io/adk-docs/)
 - [Vertex AI](https://cloud.google.com/vertex-ai/docs)
-- [ADK Web Interface](https://cloud.google.com/agent-development-kit/docs/web-interface)
 
 ### Recursos de Psicología
 - [Organización Mundial de la Salud - Salud Mental](https://www.who.int/health-topics/mental-health)
