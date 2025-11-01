@@ -2,28 +2,11 @@
 
 ## 👤 Autor
 
-**[Carlos García Díaz]**  
-*[Ingeniero Investigador y Desarrollador de Procesos y Automatizaciones]*
+**Carlos García Díaz**  
+*Ingeniero Investigador y Desarrollador de Procesos y Automatizaciones*
 
 ---
 
-## 📋 Tabla de Contenidos
-
-1. [Introducción](#introducción)
-2. [Arquitectura y Funcionamiento](#arquitectura-y-funcionamiento)
-3. [Prerrequisitos](#prerrequisitos)
-4. [Configuración de Google Cloud Console](#configuración-de-google-cloud-console)
-5. [Instalación de Google Cloud CLI](#instalación-de-google-cloud-cli)
-6. [Configuración de Google Cloud CLI](#configuración-de-google-cloud-cli)
-7. [Configuración de Variables de Entorno](#configuración-de-variables-de-entorno)
-8. [Construcción de Prompts para Psicología](#construcción-de-prompts-para-psicología)
-9. [Implementación Local con Google ADK](#implementación-local-con-google-adk)
-10. [Configuración del Agente Psicológico](#configuración-del-agente-psicológico)
-11. [Pruebas y Validación](#pruebas-y-validación)
-12. [Despliegue y Monitoreo](#despliegue-y-monitoreo)
-13. [Troubleshooting](#troubleshooting)
-14. [Recursos Adicionales](#recursos-adicionales)
-15. [Créditos](#créditos)
 
 ## 🚀 Introducción
 
