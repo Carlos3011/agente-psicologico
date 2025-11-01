@@ -2073,12 +2073,6 @@ if __name__ == "__main__":
 
 
 
-## 👨‍💻 Créditos
-
-**Desarrollado por:**
-Carlos García Díaz  
-*Ingeniero Investigador y Desarrollador de Procesos y Automatizaciones*
-
 ---
 
 ⚠️ **Descargo de Responsabilidad**: Este agente de IA es una herramienta de apoyo y no reemplaza la atención psicológica profesional. En caso de crisis o emergencia, contacta inmediatamente a los servicios de emergencia o líneas de crisis especializadas.
