@@ -1,6 +1,6 @@
 # File created using '.gitignore Generator' for Visual Studio Code: https://bit.ly/vscode-gig
-# Created by https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,python,flask
-# Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode,python,flask
+# Created by https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,python,flask,laravel
+# Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode,python,flask,laravel
 
 ### Flask ###
 instance/*
@@ -168,6 +168,30 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+### Laravel ###
+/vendor/
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Laravel 4 specific
+bootstrap/compiled.php
+app/storage/
+
+# Laravel 5 & Lumen specific
+public/storage
+public/hot
+
+# Laravel 5 & Lumen specific with changed public path
+public_html/storage
+public_html/hot
+
+storage/*.key
+Homestead.yaml
+Homestead.json
+/.vagrant
+.phpunit.result.cache
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 
@@ -305,7 +329,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,python,flask
+# End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,python,flask,laravel
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
 
